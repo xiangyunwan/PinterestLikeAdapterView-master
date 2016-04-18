@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\android_github\\PinterestLikeAdapterView-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\empty_photo.png",
+        "source": "D:\\android_github\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\drawable-hdpi\\empty_photo.png"
+    },
+    {
+        "merged": "D:\\android_github\\PinterestLikeAdapterView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\news_item_bg.9.png",
+        "source": "D:\\android_github\\PinterestLikeAdapterView-master\\app\\src\\main\\res\\drawable-hdpi\\news_item_bg.9.png"
+    },
+    {
+        "merged": "D:\\android_github\\PinterestLikeAdapterView-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\android_github\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_github\\PinterestLikeAdapterView-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\news_item_bg.9.png",
+        "source": "D:\\android_github\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\drawable-hdpi\\news_item_bg.9.png"
+    },
+    {
+        "merged": "D:\\android_github\\PinterestLikeAdapterView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\empty_photo.png",
+        "source": "D:\\android_github\\PinterestLikeAdapterView-master\\app\\src\\main\\res\\drawable-hdpi\\empty_photo.png"
+    },
+    {
+        "merged": "D:\\android_github\\PinterestLikeAdapterView-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xlistview_arrow.png",
+        "source": "D:\\android_github\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\drawable-hdpi\\xlistview_arrow.png"
+    },
+    {
+        "merged": "D:\\android_github\\PinterestLikeAdapterView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\android_github\\PinterestLikeAdapterView-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_github\\PinterestLikeAdapterView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xlistview_arrow.png",
+        "source": "D:\\android_github\\PinterestLikeAdapterView-master\\app\\src\\main\\res\\drawable-hdpi\\xlistview_arrow.png"
+    }
+]
